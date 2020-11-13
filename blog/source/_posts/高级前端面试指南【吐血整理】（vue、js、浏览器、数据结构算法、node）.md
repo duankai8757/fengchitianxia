@@ -1,4 +1,9 @@
-# 高级前端面试指南【吐血整理】（包含vue、js、浏览器、数据结构算法、node）
+---
+layout: article
+title: 高阶前端面试指南【吐血整理】（包含vue、js、浏览器、数据结构算法、node）
+date: 2020-11-13 23:46:20
+tags:
+---
 
 - [木易杨-面试题集合](https://github.com/Advanced-Frontend/Daily-Interview-Question/blob/master/datum/summary.md)
 - [JavaScript-Leetcode 面试题集合](https://github.com/sisterAn/JavaScript-Algorithms)
